@@ -2,3 +2,6 @@
 .eslintcache
 /node_modules
 /dist
+
+*.d.ts
+!declarations.d.ts
